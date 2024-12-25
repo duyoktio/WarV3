@@ -1,0 +1,5 @@
+Config = {
+    namescript = "WarV3",--Tên Script
+    logoscript = "120292332375929",--ID Logo Script
+}
+loadstring(game:HttpGet("https://auth.quartyz.com/scripts/Loader.lua"))()
